@@ -1,7 +1,7 @@
 # LIRI App
 
 ## About
-LIRI is just like SIRI, except LIRI is a *Language* Interpretation and Recognition Interface instead of a *Speech* Interpretation and Recognition Interface. LIRI can take an a command from the command line node app and give data back based on that command. 
+LIRI is just like SIRI, except LIRI is a *Language* Interpretation and Recognition Interface instead of a *Speech* Interpretation and Recognition Interface. LIRI can take in a command from the command line node app and give data back based on that command. 
 
 ## Demo
 <p align="center">
