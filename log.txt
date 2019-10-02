@@ -322,3 +322,155 @@ Album: Lover
 Preview Link: null
 
 -------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: All Star
+
+Artist(s): Smash Mouth
+
+Album: Astro Lounge
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Werchter Boutique
+
+Venue Location: Rotselaar, , Belgium
+
+Venue Time: 06/20/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Waldbühne Berlin
+
+Venue Location: Berlin, , Germany
+
+Venue Time: 06/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Oslo Sommertid
+
+Venue Location: Oslo, , Norway
+
+Venue Time: 06/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Roskilde Festival
+
+Venue Location: Roskilde, , Denmark
+
+Venue Time: 07/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Open’er Festival
+
+Venue Location: Powiat Pucki, , Poland
+
+Venue Time: 07/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Festival de Nîmes
+
+Venue Location: Nimes, , France
+
+Venue Time: 07/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: NOS Alive
+
+Venue Location: Algés, , Portugal
+
+Venue Time: 07/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Allianz Parque
+
+Venue Location: Sao Paulo, , Brazil
+
+Venue Time: 07/18/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/25/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest West
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 07/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 07/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Lover Fest East
+
+Venue Location: Foxborough, MA, United States
+
+Venue Time: 08/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Movie Search Log----------------------
+
+Year: 2008
+
+IMDB Rating: 7.9
+
+Rotten Tomatoes: 93%
+
+Country: USA
+
+Language: English, Persian, Urdu, Arabic, Hungarian
+
+Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+
+Year: 2008
+
+Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+
+-----------------------------------------

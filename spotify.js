@@ -15,7 +15,7 @@ function getSpotify(input2) {
         console.log("\n---------------------\nSong Name: " + data.tracks.items[0].name);
         console.log("Artist(s) Name: "+ data.tracks.items[0].artists[0].name);
         console.log("Album Name: "+ data.tracks.items[0].album.name);
-        console.log("Preview URL: " + data.tracks.items[0].preview_url+"\n---------------\n");
+        console.log("Preview URL: " + data.tracks.items[0].preview_url+"\n---------------------\n");
         //adds text to log.txt
         fs.appendFileSync('log.txt', "\r\n" + "Song Search Log---------------------------------------"+ "\r\n", 'utf8');
         fs.appendFileSync('log.txt', "\r\n" + "Song Name: " + data.tracks.items[0].name + "\r\n", 'utf8' );
